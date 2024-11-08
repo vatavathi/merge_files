@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=easy
+Exec=/home/nikhil/PRANAV/tk_app.sh > /home/nikhil/tk_app.log 2>&1
+Terminal=true
+Icon=application-x-executable
